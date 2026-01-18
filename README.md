@@ -25,6 +25,11 @@
 - **Utilities**: Pydantic, Requests, Safetensors
 
 ---
+## 🎵 AI Music Generated Live Demo
+
+[![Play AI Music](thumbnails/cover.png)](Music%20Generated/generated%20music.wav)
+
+**Click the thumbnail above to hear your AI-generated music!**
 
 ## ⚙️ Installation
 
@@ -60,7 +65,7 @@ npm run dev
 ----
 
 ## Thumbnail demonstration
-![MelodyX Thumbnail](thumbnails/cover.png)
+![MelodyX Thumbnail](thumbnails/rap.png)
 ## API Usage
 **Generate Music**
 **Endpoint:** `POST /generate`
