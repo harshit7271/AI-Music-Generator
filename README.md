@@ -1,6 +1,6 @@
 # 🎵 MelodyX: SaaS AI Music Generator
 
-**MelodyX** is a full‑stack SaaS application that generates music, lyrics and thumbnails from text prompts using ACE-Step models and Alibaba's Qwen large language models. Built for scalability and recruiter‑ready polish, it combines **FastAPI** for backend orchestration, **React + Next.js** for frontend UI, **AWS S3** for audio storage, and **Modal** for cloud deployment.
+**MelodyX** is a full‑stack SaaS application that generates music, lyrics and thumbnails from text prompts using **ACE-Step models** and **Alibaba's Qwen large language models**. Built for scalability and recruiter‑ready polish, it combines **FastAPI** for backend orchestration, **React + Next.js** for frontend UI, **AWS S3** for audio storage, and **Modal** for cloud deployment.
 
 ---
 
