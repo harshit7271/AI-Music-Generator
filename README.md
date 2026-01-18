@@ -54,6 +54,10 @@ modal run main.py
 ```bash
 npm run dev
 ```
+## s3-Bucket demonstration 
+![MelodyX Thumbnail](thumbnails/image%20(3).jpg)
+
+## Thumbnail demonstration
 
 ## API Usage
 **Generate Music**
