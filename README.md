@@ -37,6 +37,8 @@ cd AI-Music-Generator-SAAS/backend
 python -m venv .venv
 .venv\Scripts\activate   # Windows
 pip install -r requirements.txt
+pip install modal
+modal run main.py
 ```
 ### Frontend
 ```bash
@@ -46,7 +48,7 @@ npm run dev
 ```
 ### Running Locally
 ```bash
-uvicorn main:app --reload
+modal run main.py
 ```
 **Run the Next.js frontend:**
 ```bash
