@@ -26,8 +26,6 @@
 
 ---
 
----
-
 ## ⚙️ Installation
 
 ### Backend
@@ -54,11 +52,15 @@ modal run main.py
 ```bash
 npm run dev
 ```
-## s3-Bucket demonstration 
+---
+
+## AWS s3-Bucket demonstration 
 ![MelodyX Thumbnail](thumbnails/image%20(3).jpg)
 
-## Thumbnail demonstration
+----
 
+## Thumbnail demonstration
+![MelodyX Thumbnail](thumbnails/cover.png)
 ## API Usage
 **Generate Music**
 **Endpoint:** `POST /generate`
@@ -108,14 +110,14 @@ torchcodec>=0.2.0
   }
 }
 ```
-
+---
 
 ## Notes :
 - Ensure CUDA is available for GPU acceleration, otherwise fallback to CPU.
 - TorchCodec is required for saving audio with torchaudio.save.
 - AWS S3 bucket must be configured with proper credentials for audio storage.
 - Future warnings from HuggingFace libraries are safe to ignore but can be silenced.
-
+---
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
