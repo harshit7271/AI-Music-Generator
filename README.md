@@ -25,7 +25,7 @@
 - **Utilities**: Pydantic, Requests, Safetensors
 
 ---
-## 🎵 AI Music Generated Live Demo
+## AI Music Generated Live Demo
 
 [![Play AI Music](thumbnails/cover.png)](Music%20Generated/generated%20music.wav)
 
