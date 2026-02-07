@@ -1,6 +1,6 @@
 # 🎵 AI Music Generator
 
- An AI music **GENERATOR**, **lyrics and thumbnail**s from **text prompts** using **ACE-Step models** and **Alibaba's Qwen large language models**. Built for scalability and recruiter‑ready polish, it combines **FastAPI** for backend orchestration, **AWS S3** for audio storage, and **Modal** for cloud deployment.
+ An AI music **GENERATOR**, **lyrics and thumbnail**s from **text prompts** using **ACE-Step models** and **Alibaba's Qwen large language models**. Built for **scalability** and **recruiter‑ready** polish, it combines **FastAPI** for backend orchestration, **AWS S3** for audio storage, and **Modal** for cloud deployment.
 
 ---
 
