@@ -1,0 +1,12 @@
+transformers==4.39.3
+diffusers==0.29.0
+peft==0.17.0
+accelerate==0.30.0
+pydantic
+torch>=2.1.0
+safetensors>=0.4.0
+torch>=2.1.0
+torchaudio>=2.1.0
+torchcodec>=0.2.0
+boto3
+spacy>=3.8.2,<3.9
